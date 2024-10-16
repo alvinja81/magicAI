@@ -1,0 +1,2 @@
+# magicAI
+landing Page 
