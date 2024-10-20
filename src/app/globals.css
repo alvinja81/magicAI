@@ -4,7 +4,7 @@
 
 @layer components {
   .btn {
-    @apply px-4 py-2 rounded-lg font-medium inline-block items-center tracking-tight;
+    @apply px-4 py-2 rounded-lg font-medium inline-flex items-center tracking-tight;
   }
   .btn-primary {
     @apply bg-black text-white;
