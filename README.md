@@ -72,4 +72,4 @@ Contributions are welcome! If you'd like to improve or customize the project, fe
 
 ## License
 
-NOT YET :)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
